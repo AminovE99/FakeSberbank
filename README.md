@@ -32,9 +32,9 @@ After replacing all variables:
 [![Docker Size](https://images.microbadger.com/badges/image/monogramm/__app_slug__.svg)](https://microbadger.com/images/monogramm/__app_slug__)
 -->
 
-# ****app_name****
+# ****Fake Sberbank****
 
-> :alembic: **app_description**
+> :alembic: Create fake screenshoots for Sberbank online.
 
 :construction: **This project is still in development!**
 
